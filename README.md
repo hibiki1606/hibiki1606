@@ -1,10 +1,10 @@
 ## Meoww
-Nyaaa
+Nyaaa <br>
+I'm a neko coder! <br>
 
-I'm a neko coder!
+.NET / JS <br>
 
-
-.NET / JS
+日本語話せます
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=verniy1606&layout=compact&hide=css,html)](https://github.com/anuraghazra/github-readme-stats) -->
 
