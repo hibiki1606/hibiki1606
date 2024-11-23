@@ -4,8 +4,6 @@ I'm a neko coder! <br>
 
 .NET / JS <br>
 
-日本語話せます
-
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=verniy1606&layout=compact&hide=css,html)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--
